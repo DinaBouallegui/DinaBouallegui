@@ -1,6 +1,10 @@
-[![MasterHead](https://64.media.tumblr.com/7cf4cb90ebadef4be1d59fd094e592de/tumblr_op6hl0O6oM1w8x9jpo2_500.gifv)]
+
+<p align="center">
+  <img width="100%" src="https://i.pinimg.com/originals/8d/f8/47/8df847c2d6ca10137a0da48af067f107.gif">
+</p>
+
 <h1 align="center">Hi 👋, I'm Dina Bouallegui</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A Tech enthusiast </h3>
 <img align="right" alt="Coding" width=400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinabouallegui&label=Profile%20views&color=0e75b6&style=flat" alt="dinabouallegui" /> </p>
